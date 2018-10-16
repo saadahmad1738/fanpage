@@ -18,3 +18,21 @@ a {
     width: 30px;
     margin: 15px;
 }
+.navbar{
+    display:flex;
+    justify-content:space-around;
+    
+}
+.header{
+    display: flex;
+    justify-content:center;
+    
+}
+/*
+This is the Gallery HTML
+*/
+.gallery{
+    display: flex;
+    justify-content: space-between;
+}
+
